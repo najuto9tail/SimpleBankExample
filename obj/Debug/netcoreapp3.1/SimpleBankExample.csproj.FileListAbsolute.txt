@@ -1,0 +1,26 @@
+C:\Users\KPG User\source\repos\SimpleBankExample\bin\Debug\netcoreapp3.1\SimpleBankExample.exe
+C:\Users\KPG User\source\repos\SimpleBankExample\bin\Debug\netcoreapp3.1\SimpleBankExample.deps.json
+C:\Users\KPG User\source\repos\SimpleBankExample\bin\Debug\netcoreapp3.1\SimpleBankExample.runtimeconfig.json
+C:\Users\KPG User\source\repos\SimpleBankExample\bin\Debug\netcoreapp3.1\SimpleBankExample.runtimeconfig.dev.json
+C:\Users\KPG User\source\repos\SimpleBankExample\bin\Debug\netcoreapp3.1\SimpleBankExample.dll
+C:\Users\KPG User\source\repos\SimpleBankExample\bin\Debug\netcoreapp3.1\SimpleBankExample.pdb
+C:\Users\KPG User\source\repos\SimpleBankExample\obj\Debug\netcoreapp3.1\SimpleBankExample.csproj.AssemblyReference.cache
+C:\Users\KPG User\source\repos\SimpleBankExample\obj\Debug\netcoreapp3.1\SimpleBankExample.AssemblyInfoInputs.cache
+C:\Users\KPG User\source\repos\SimpleBankExample\obj\Debug\netcoreapp3.1\SimpleBankExample.AssemblyInfo.cs
+C:\Users\KPG User\source\repos\SimpleBankExample\obj\Debug\netcoreapp3.1\SimpleBankExample.csproj.CoreCompileInputs.cache
+C:\Users\KPG User\source\repos\SimpleBankExample\obj\Debug\netcoreapp3.1\SimpleBankExample.dll
+C:\Users\KPG User\source\repos\SimpleBankExample\obj\Debug\netcoreapp3.1\SimpleBankExample.pdb
+C:\Users\KPG User\source\repos\SimpleBankExample\obj\Debug\netcoreapp3.1\SimpleBankExample.genruntimeconfig.cache
+C:\Projects\SimpleBankExample\bin\Debug\netcoreapp3.1\SimpleBankExample.exe
+C:\Projects\SimpleBankExample\bin\Debug\netcoreapp3.1\SimpleBankExample.deps.json
+C:\Projects\SimpleBankExample\bin\Debug\netcoreapp3.1\SimpleBankExample.runtimeconfig.json
+C:\Projects\SimpleBankExample\bin\Debug\netcoreapp3.1\SimpleBankExample.runtimeconfig.dev.json
+C:\Projects\SimpleBankExample\bin\Debug\netcoreapp3.1\SimpleBankExample.dll
+C:\Projects\SimpleBankExample\bin\Debug\netcoreapp3.1\SimpleBankExample.pdb
+C:\Projects\SimpleBankExample\obj\Debug\netcoreapp3.1\SimpleBankExample.AssemblyInfoInputs.cache
+C:\Projects\SimpleBankExample\obj\Debug\netcoreapp3.1\SimpleBankExample.AssemblyInfo.cs
+C:\Projects\SimpleBankExample\obj\Debug\netcoreapp3.1\SimpleBankExample.csproj.CoreCompileInputs.cache
+C:\Projects\SimpleBankExample\obj\Debug\netcoreapp3.1\SimpleBankExample.dll
+C:\Projects\SimpleBankExample\obj\Debug\netcoreapp3.1\SimpleBankExample.pdb
+C:\Projects\SimpleBankExample\obj\Debug\netcoreapp3.1\SimpleBankExample.genruntimeconfig.cache
+C:\Projects\SimpleBankExample\obj\Debug\netcoreapp3.1\SimpleBankExample.csproj.AssemblyReference.cache

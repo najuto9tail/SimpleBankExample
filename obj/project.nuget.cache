@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nzEVsEngPDjYsUDVsb6ayntN434xvgFde4dMk4PtSo++6EVsId3HvIAmcaL44ACdppXOmw1WkXggObaaTvghbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\SimpleBankExample\\SimpleBankExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EvertecS683749\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
