@@ -35,7 +35,7 @@ using System.Text;
         Console.WriteLine();
         // A withdraw example of <500
         Console.WriteLine("Withdraw Example of more than the 500 limit");
-        Console.WriteLine("$499");
+        Console.WriteLine("$490");
         // A withdrawal attempt of 490
         MakeWithdrawal(JuansBank.selectedAccount, 490);
         Console.WriteLine();
